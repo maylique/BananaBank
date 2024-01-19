@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Bank from './components/bank'
+import Bank from './components/Bank'
 import './components/style.css'
 
 function App() {
